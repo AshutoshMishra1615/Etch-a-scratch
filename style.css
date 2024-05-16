@@ -1,0 +1,41 @@
+/* Add styles here */
+body{
+    background-color: black;
+    color: white;
+
+}
+.buttons{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    background-color: aqua;
+    color:black;
+    border: 1px solid black;
+    border-radius: 5px;  
+    padding:20px;
+
+ 
+}
+.changeGrid{
+    background-color: aqua;
+    color:black;
+    border: 1px solid black;
+    border-radius: 5px;  
+    padding:20px;
+    margin: 20px;
+
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:40vw;
+    width: 55%;
+    margin-left: 20%;
+    border:1px solid red;
+}
+
