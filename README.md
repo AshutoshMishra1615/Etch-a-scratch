@@ -1,1 +1,1 @@
-A simple HTML/JS/CSS starter template
+Draw and scratch in this Etch a scratch web app
